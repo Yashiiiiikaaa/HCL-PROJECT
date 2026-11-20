@@ -1,0 +1,14 @@
+ONLINE SHOPPING DELIVERY ANALYSIS
+---------------------------------
+Total Shipments: 1200
+Delivered Shipments: 981
+Success Percentage: 81.75%
+Average Delivery Days: 4.63
+Unique Delivery Partners: 4
+
+FIVE RECOMMENDATIONS:
+1. Improve delivery partner performance monitoring.
+2. Use faster shipping methods for urgent orders.
+3. Track shipments regularly to identify delays.
+4. Improve warehouse and inventory management.
+5. Provide customers with accurate delivery updates.
